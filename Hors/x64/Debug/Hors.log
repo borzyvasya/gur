@@ -1,0 +1,5 @@
+﻿  task.cpp
+C:\Users\Me\source\repos\G\Hors\task.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Me\source\repos\G\Hors\task.cpp(41,14): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Me\source\repos\G\Hors\task.cpp(42,16): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Hors.vcxproj -> C:\Users\Me\source\repos\G\x64\Debug\Hors.exe
